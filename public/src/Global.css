@@ -1,0 +1,14 @@
+.cuadradoExterior {
+  background-color: navy; /* Azul marino */
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadradoInterior {
+  background-color: darkblue; /* Azul oscuro */
+  width: 100px;
+  height: 100px;
+}
